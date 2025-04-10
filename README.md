@@ -1,5 +1,7 @@
 # Math Problem Solver
 
+link: https://m3chatbot-xtumvvyc9xfmg3jcw7lixm.streamlit.app/
+
 An interactive Streamlit application for solving math problems using Mistral AI.
 
 ## Team Members
